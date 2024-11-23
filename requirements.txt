@@ -1,0 +1,33 @@
+fastapi
+uvicorn
+websockets
+
+# Database
+sqlalchemy
+psycopg2-binary  # Optional, for PostgreSQL
+#sqlite3  # Included in Python standard library
+
+# PDF Processing
+PyMuPDF
+
+# NLP and AI
+langchain
+tiktoken
+
+# Configuration and Environment
+python-dotenv
+python-multipart
+
+slowapi
+
+# Testing
+pytest
+httpx
+asynctest
+
+# Deployment and Production
+gunicorn
+pypdf
+
+python-multipart
+google-generativeai
